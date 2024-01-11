@@ -1,7 +1,7 @@
 # Flight_Price_Prediction
 
 
-https://blog.air.irctc.co.in/wp-content/uploads/2023/12/flight-hero.jpg
+
 Overview
 This project focuses on predicting airline flight prices using machine learning techniques. The goal is to assist travelers in making informed decisions by providing accurate predictions of future flight prices
 
